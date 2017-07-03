@@ -1,1 +1,0 @@
-http://stackoverflow.com/questions/12068476/input-type-date-html5-and-receiving-data-from-databse
